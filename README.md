@@ -23,14 +23,15 @@ My Skills
 ### Fluent Languages
 My Skills
 
-Javascript/JSX
-Python
-English
+- Javascript/JSX
+- Python
+- Typescript
+- Java
 
 ### JavaScript Specific Toolset
-NodeJS
-NPM
-HTML5 Canvas
+- NodeJS
+- NPM
+- HTML5 Canvas
 
 👾 Software
 ---
@@ -38,18 +39,15 @@ HTML5 Canvas
 
 My Skills
 
-IDE: VSCode
-Design Software: Figma
-Browser: Arc
-Keyboard Customizer: Karabiner Elements
-Other Productivity Tools:
-
-Spotlight Search Alternative: Raycast
+- IDE: VSCode
+- Design Software: Figma
+- Browser: Chrome
+- Notes: Obsidian
 
 💻 Hardware
 ---
 > What do I use?
 
-Computer: HP Envy
-Keyboard: Magic Refiner RK68
-Mouse: Logi MX 3S
+- Computer: HP Envy
+- Keyboard: Magic Refiner RK68
+- Mouse: Logi MX 3S
