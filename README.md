@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./adriantdBannerDark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./adriantdBannerLight.png">
+  <img alt="AdrianTobi Banner" src="./adriantdBannerLight.png">
+</picture>
+
 👋 Hi, I'm Adrian Tobi.
 ---
 I’m a software engineer specializing in building and designing astonishing digital experiences for users. Currently, I’m focused on building some projects of my own.
