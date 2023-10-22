@@ -27,11 +27,10 @@ My Skills
   - CSS/HTML
 
 ### Fluent Languages
-[![My Skills](https://skillicons.dev/icons?i=js,java,python,php,ts,rust,dart)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,java,python,php,ts,rust)](https://skillicons.dev)
 
 - Javascript/JSX
 - Python
-- Dart
 - Rust
 - PHP
 - Typescript
