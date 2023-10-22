@@ -1,4 +1,4 @@
-<kbd style="border:40px solid #000;"><picture width='100%' style="border:40px solid #000;">
+<kbd><picture width='100%' style="border:40px solid #000;">
   <source media="(prefers-color-scheme: dark)" srcset="./adriantdBannerDark.png">
   <source media="(prefers-color-scheme: light)" srcset="./adriantdBannerLight.png">
   <img alt="AdrianTobi Banner" width='100%' style="border:40px solid #000;" src="./adriantdBannerLight.png">
