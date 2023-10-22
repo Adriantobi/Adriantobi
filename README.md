@@ -5,9 +5,9 @@ I’m a software engineer specializing in building and designing astonishing dig
 
 ✨ Skills
 ---
-What can I do?
+> What can I do?
 
-#### General
+### General
 My Skills
 
 - Web devlopment
@@ -19,18 +19,22 @@ My Skills
   - Getting general information with Axios
 - UI/Graphic Design
   - CSS/HTML
-#### Fluent Languages
+
+### Fluent Languages
 My Skills
 
 Javascript/JSX
 Python
 English
-JavaScript Specific Toolset
+
+### JavaScript Specific Toolset
 NodeJS
 NPM
 HTML5 Canvas
+
 👾 Software
-What's on my computer?
+---
+> What's on my computer?
 
 My Skills
 
@@ -44,12 +48,8 @@ Spotlight Search Alternative: Raycast
 
 💻 Hardware
 ---
-What do I use?
+> What do I use?
 
-Computer: M1 Macbook Air
-Keyboard: Keychron K2 w/ Gateron Brown switches
-Mouse: Logi MX 2 Anywhere
-Stand: Rain Design mStand
-
-📈 Stats
----
+Computer: HP Envy
+Keyboard: Magic Refiner RK68
+Mouse: Logi MX 3S
