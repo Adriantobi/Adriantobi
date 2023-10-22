@@ -4,21 +4,22 @@ I’m a software engineer specializing in building and designing astonishing dig
 
 
 ✨ Skills
+---
 What can I do?
 
-General
+#### General
 My Skills
 
-Web devlopment
-React/JSX
-Next.js Framework
-Redux
-Web Scraping
-Headless browser control with Puppeteer
-Getting general information with Axios
-UI/Graphic Design
-CSS/HTML
-Fluent Languages
+- Web devlopment
+  - React/JSX
+  - Next.js Framework
+  - Redux
+- Web Scraping
+  - Headless browser control with Puppeteer
+  - Getting general information with Axios
+- UI/Graphic Design
+  - CSS/HTML
+#### Fluent Languages
 My Skills
 
 Javascript/JSX
@@ -40,13 +41,15 @@ Keyboard Customizer: Karabiner Elements
 Other Productivity Tools:
 
 Spotlight Search Alternative: Raycast
-Proud Raycast Pro Subscriber!
-Screenshots: Shottr
+
 💻 Hardware
+---
 What do I use?
 
 Computer: M1 Macbook Air
 Keyboard: Keychron K2 w/ Gateron Brown switches
 Mouse: Logi MX 2 Anywhere
 Stand: Rain Design mStand
+
 📈 Stats
+---
