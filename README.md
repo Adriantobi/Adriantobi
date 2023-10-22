@@ -1,7 +1,7 @@
 <picture width='100%' style="border-radius:25px;">
   <source media="(prefers-color-scheme: dark)" srcset="./adriantdBannerDark.png">
   <source media="(prefers-color-scheme: light)" srcset="./adriantdBannerLight.png">
-  <img alt="AdrianTobi Banner" src="./adriantdBannerLight.png">
+  <img alt="AdrianTobi Banner" width='100%' src="./adriantdBannerLight.png">
 </picture>
 
 👋 Hi, I'm Adrian Tobi.
