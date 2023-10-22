@@ -16,6 +16,8 @@ I’m a software engineer specializing in building and designing astonishing dig
 ### General
 My Skills
 
+[![My Skills](https://skillicons.dev/icons?i=react,next,redux,css,html)](https://skillicons.dev)
+
 - Web devlopment
   - React/JSX
   - Next.js Framework
@@ -27,7 +29,7 @@ My Skills
   - CSS/HTML
 
 ### Fluent Languages
-My Skills
+[![My Skills](https://skillicons.dev/icons?i=react,next,redux,css,html)](https://skillicons.dev)
 
 - Javascript/JSX
 - Python
@@ -43,7 +45,7 @@ My Skills
 ---
 > What's on my computer?
 
-My Skills
+[![My Skills](https://skillicons.dev/icons?i=react,next,redux,css,html)](https://skillicons.dev)
 
 - IDE: VSCode
 - Design Software: Figma
