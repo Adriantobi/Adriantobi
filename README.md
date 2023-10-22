@@ -16,36 +16,36 @@ I’m a software engineer specializing in building and designing astonishing dig
 ### General
 My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=react,next,redux,css,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,redux,prisma,css,html)](https://skillicons.dev)
 
 - Web devlopment
   - React/JSX
-  - Next.js Framework
-  - Redux
-- Web Scraping
-  - Headless browser control with Puppeteer
-  - Getting general information with Axios
+  - Next.js
+  - Vue.js
+  - Prisma
 - UI/Graphic Design
   - CSS/HTML
 
 ### Fluent Languages
-[![My Skills](https://skillicons.dev/icons?i=react,next,redux,css,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,java,python,php,ts,rust,dart)](https://skillicons.dev)
 
 - Javascript/JSX
 - Python
+- Dart
+- Rust
+- PHP
 - Typescript
 - Java
 
 ### JavaScript Specific Toolset
 - NodeJS
 - NPM
-- HTML5 Canvas
 
 👾 Software
 ---
 > What's on my computer?
 
-[![My Skills](https://skillicons.dev/icons?i=react,next,redux,css,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,vscode)](https://skillicons.dev)
 
 - IDE: VSCode
 - Design Software: Figma
