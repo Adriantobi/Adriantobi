@@ -1,6 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./adriantdBannerDark.png">
-  <source media="(prefers-color-scheme: light)" srcset="./adriantdBannerLight.png">
+<picture style="width:100%; border-radius:25px;">
+  <source media="(prefers-color-scheme: dark)" style="width:100%; border-radius:25px;" srcset="./adriantdBannerDark.png">
+  <source media="(prefers-color-scheme: light)" style="width:100%; border-radius:25px;" srcset="./adriantdBannerLight.png">
   <img alt="AdrianTobi Banner" style="width:100%; border-radius:25px;" src="./adriantdBannerLight.png">
 </picture>
 
