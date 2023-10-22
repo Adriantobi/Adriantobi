@@ -50,7 +50,7 @@ My Skills
 - IDE: VSCode
 - Design Software: Figma
 - Browser: Chrome
-- Notes: Obsidian
+- Notes/ Journal: Obsidian
 
 💻 Hardware
 ---
