@@ -16,7 +16,7 @@ I’m a software engineer specializing in building and designing astonishing dig
 ### General
 My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=react,next,redux,prisma,css,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,vue,prisma,css,html)](https://skillicons.dev)
 
 - Web devlopment
   - React/JSX
