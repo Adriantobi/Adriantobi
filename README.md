@@ -58,3 +58,9 @@ My Skills
 - Computer: HP Envy
 - Keyboard: Magic Refiner RK68
 - Mouse: Logi MX 3S
+
+📈 Stats
+---
+> How much do I do what I do?
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adriantobi&theme=github)
