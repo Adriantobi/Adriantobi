@@ -44,9 +44,9 @@ My Skills
 ---
 > What's on my computer?
 
-[![My Skills](https://skillicons.dev/icons?i=figma,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,neovim,vscode)](https://skillicons.dev)
 
-- IDE: VSCode
+- IDE: NeoVim/ VSCode
 - Design Software: Figma
 - Browser: Chrome
 - Notes/ Journal: Obsidian
