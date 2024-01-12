@@ -46,7 +46,7 @@ My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=figma,neovim)](https://skillicons.dev)
 
-- IDE: NeoVim/ VSCode
+- IDE: NeoVim
 - Design Software: Figma
 - Browser: Chrome
 - Notes/ Journal: Obsidian
