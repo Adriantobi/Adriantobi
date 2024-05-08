@@ -44,7 +44,7 @@ My Skills
 ---
 > What's on my computer?
 
-[![My Skills](https://skillicons.dev/icons?i=figma,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,neovim,obsidian)](https://skillicons.dev)
 
 - IDE: NeoVim
 - Design Software: Figma
