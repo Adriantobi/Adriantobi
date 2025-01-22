@@ -16,7 +16,7 @@ I’m a software engineer specializing in building and designing astonishing dig
 ### General
 My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=react,next,vue,prisma,css,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,vue,prisma,css,html,rabbitmq,opencv,postman,tauri,vercel)](https://skillicons.dev)
 
 - Web devlopment
   - React/JSX
@@ -25,9 +25,18 @@ My Skills
   - Prisma
 - UI/Graphic Design
   - CSS/HTML
+- Real Time Messaging and API platforms
+  - RabbitMQ
+  - Postman
+- Computer Vision
+  - OpenCV
+- Desktop and Application Development
+  - Tauri
+- Deployment and Hosting
+  - Vercel
 
 ### Fluent Languages
-[![My Skills](https://skillicons.dev/icons?i=js,java,python,php,ts,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,java,python,php,ts,rust,cs)](https://skillicons.dev)
 
 - Javascript/JSX
 - Python
@@ -35,6 +44,7 @@ My Skills
 - PHP
 - Typescript
 - Java
+- C#
 
 ### JavaScript Specific Toolset
 - NodeJS
@@ -55,9 +65,9 @@ My Skills
 ---
 > What do I use?
 
-- Computer: HP Envy
+- Computer: Dell Latitude 9440 
 - Keyboard: Magic Refiner RK68
-- Mouse: Logi MX 3S
+- Mouse: Logi MX 2S
 
 📈 Stats
 ---
